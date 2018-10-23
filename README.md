@@ -3,7 +3,7 @@ Self contained, persistent Jenkins image.
 
 # Quick Start
 
-This will Jenkins up and running with basic jobs and default config.
+This will get a Jenkins instance up and running with basic jobs and default config.
 
 1. Make sure you have all the pre-reqs installed (Docker for Mac or Docker for Windows)
 2. Clone this repository to your local drive
